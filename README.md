@@ -1,6 +1,7 @@
-# bunch
+# In Their Shoes
 
-A new Flutter project.
+Empower changing Teams to thrive.
+This is a flutter mobile app that enables fast-growing start up to build positive team culture by allowing individuals to determine how they would like to be perceived.
 
 ## Getting Started
 
